@@ -1,5 +1,5 @@
 ## Hi there 👋
-## Check out my intriguing Python projects in "Python" repo
+## Check out my intriguing Python projects in my "Python" repo
 <!--
 **djangoabhi/djangoabhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
